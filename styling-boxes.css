@@ -1,0 +1,13 @@
+div {
+    width: 299px;
+    border: 1px solid black;
+
+}
+p {
+    border: 1px solid black;
+    margin: 0px;
+}
+p:hover {
+    background: orange;
+   
+}
