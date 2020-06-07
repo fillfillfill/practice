@@ -1,0 +1,29 @@
+#first {
+    border: 2px solid  rgb(6, 131, 248);;
+    display: flex;
+    width: fit-content;
+    padding: 15px;
+}
+
+p {
+    width: 30px;
+    height: 30px;
+    background: rgb(6, 131, 248);
+    padding: 10px;
+    margin: 8px;
+}
+
+#second {
+    border: 2px solid  rgb(6, 131, 248);;
+    display: flex;
+    width: fit-content;
+    padding: 15px;
+    background: orangered;
+    margin-top: 10px;
+}
+
+.part2 {
+    width: 30px;
+    height: 30px;
+    background: purple;
+}
