@@ -1,5 +1,11 @@
 p {
+    background: blue;
+    color: yellow;
+    font-size: 20px;
+    width: fit-content;
+}
+h1 {
     background: whitesmoke;
-    color: blue;
-    font-size: 30px;
+    color: red;
+    text-align: center;
 }
